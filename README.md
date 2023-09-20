@@ -4,16 +4,23 @@ A phishing internet site is the most common social engineering approach that mim
 
 SYSTEM REQUIREMENTS:
 These are the following Hardware and software requirements for the system.
+
 3.3.1 HARDWARE REQUIREMENTS:
 
 • Intel core i5 /i7 10th Gen
+
 • 8GB RAM
+
 3.3.2 SOFTWARE REQUIREMENTS:
 
 • Windows Operating System
+
 • Jupyter Notebook
+
 • Google Collab
+
 • Python 3.4 and above.
+
 • Web Framework: Flask
 
 IMPLEMENTATION:
